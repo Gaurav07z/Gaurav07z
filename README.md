@@ -1,24 +1,147 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav07z&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav07z" /> </p>
+# 👋 Hi, I'm Gaurav
 
-- 🔭 I’m currently working on [CS-Root](https://github.com/CS-Root-College/CS-Root)
+### Full-Stack Developer • CSE Student • AI/ML & DSA Learner
 
-- 🌱 I’m currently learning **AI/ML & DSA**
-
-- 💬 Ask me about **Full stack Dev & Computer Core Subjects**
-
-- 📫 How to reach me **Instagram = 0__gaurav_x_sagar**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-sagar-8ab4b6334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-sagar-8ab4b6334" height="30" width="40" /></a>
-<a href="https://instagram.com/0__gaurav_x_sagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0__gaurav_x_sagar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurav_7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_7z" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Gaurav07z">
+    <img src="https://img.shields.io/badge/GitHub-Gaurav07z-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gaurav-sagar-8ab4b6334">
+    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Sagar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/gaurav_7z">
+    <img src="https://img.shields.io/badge/LeetCode-gaurav__7z-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="https://instagram.com/0__gaurav_x_sagar">
+    <img src="https://img.shields.io/badge/Instagram-0__gaurav__x__sagar-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Gaurav07z&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav07z&show_icons=true&locale=en&layout=compact" alt="gaurav07z" /></p>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **[CS-Root](https://github.com/Gaurav07z/CS-Root)** — a Computer Science learning project.
+- 🌱 Currently learning **AI/ML, DSA, JavaScript, Node.js & Full-Stack Development**.
+- 💻 Interested in building useful web applications and learning how systems work.
+- 🧠 I enjoy exploring **Computer Science core subjects, web development and problem solving**.
+- 🎯 Goal: keep building, learning and improving one project at a time.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php" alt="Languages"/>
+</p>
+
+### Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" alt="Frontend and backend"/>
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,postman,figma,photoshop" alt="Databases and tools"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gaurav07z&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Gaurav's GitHub stats" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaurav07z&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Gaurav's top languages" height="180"/>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gaurav07z&theme=github-dark-blue&hide_border=true" alt="Gaurav's GitHub contribution streak"/>
+</p>
+
+### 📈 Contribution & Commit Graph
+
+<p align="center">
+  <a href="https://github.com/Gaurav07z">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav07z&theme=github-compact&hide_border=true&area=true" alt="Gaurav's GitHub activity graph"/>
+  </a>
+</p>
+
+---
+
+## 📦 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Gaurav07z/CS-Root">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=CS-Root&theme=github_dark&hide_border=true" alt="CS-Root"/>
+  </a>
+  <a href="https://github.com/Gaurav07z/Portfolio">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gaurav07z/MajorProject">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=MajorProject&theme=github_dark&hide_border=true" alt="MajorProject"/>
+  </a>
+  <a href="https://github.com/Gaurav07z/web-labProject">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=web-labProject&theme=github_dark&hide_border=true" alt="web-labProject"/>
+  </a>
+</p>
+
+---
+
+## 🧩 GitHub Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Gaurav07z?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Gaurav07z?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/commit-activity/y/Gaurav07z/CS-Root?style=for-the-badge&logo=github&label=CS-Root%20Commits" alt="CS-Root commit activity"/>
+</p>
+
+> **Public repositories:** 7  
+> This number reflects the repositories currently visible on the profile and is intentionally kept as plain text so the README does not depend on another API just to display a repository count.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development  ████████████████████░░  Building
+AI / ML                 ███████████████░░░░░░  Learning
+DSA                     ██████████████░░░░░░░  Practicing
+Computer Science        █████████████████░░░░  Exploring
+```
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <i>Keep coding. Keep learning. Keep shipping.</i>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Gaurav07z">GitHub</a> •
+  <a href="https://www.linkedin.com/in/gaurav-sagar-8ab4b6334">LinkedIn</a> •
+  <a href="https://leetcode.com/gaurav_7z">LeetCode</a> •
+  <a href="https://instagram.com/0__gaurav_x_sagar">Instagram</a>
+</p>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
