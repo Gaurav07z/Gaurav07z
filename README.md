@@ -61,10 +61,14 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaurav07z&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Gaurav's top languages" height="180"/>
 </p>
 
-### 🔥 Contribution Streak
+## 📈 Contribution & Commit Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gaurav07z&theme=github-dark-blue&hide_border=true" alt="Gaurav's GitHub contribution streak"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav07z&theme=github-compact&hide_border=true&area=true"
+    alt="Gaurav's GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ### 📈 Contribution & Commit Graph
