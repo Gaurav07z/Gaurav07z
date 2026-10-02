@@ -27,11 +27,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **[CS-Root](https://github.com/Gaurav07z/CS-Root)** — a Computer Science learning project.
-- 🌱 Currently learning **AI/ML, DSA, JavaScript, Node.js & Full-Stack Development**.
-- 💻 Interested in building useful web applications and learning how systems work.
-- 🧠 I enjoy exploring **Computer Science core subjects, web development and problem solving**.
-- 🎯 Goal: keep building, learning and improving one project at a time.
+- 🔭 Building **[CS-Root](https://github.com/Gaurav07z/CS-Root)** — a Computer Science learning project.
+- 🌱 Learning **JavaScript, Node.js, Full-Stack Development, AI/ML and DSA**.
+- 💻 Interested in building useful web applications and understanding how systems work.
+- 🧠 Exploring **Computer Science, web development, databases and problem solving**.
+- 🎯 Goal: **learn → build → improve → repeat.**
 
 ---
 
@@ -39,17 +39,17 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,php" alt="C C++ JavaScript TypeScript PHP"/>
 </p>
 
 ### Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" alt="Frontend and backend"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" alt="HTML CSS React Next.js Node.js Express Tailwind"/>
 </p>
 
-### Databases & Tools
+### Databases, Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,postman,figma,photoshop" alt="Databases and tools"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,postman,figma,photoshop" alt="MongoDB MySQL Git GitHub Linux Postman Figma Photoshop"/>
 </p>
 
 ---
@@ -57,62 +57,75 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Gaurav07z&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Gaurav's GitHub stats" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaurav07z&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Gaurav's top languages" height="180"/>
+  <a href="https://github.com/Gaurav07z">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Gaurav07z&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Gaurav's GitHub statistics"/>
+  </a>
+  <a href="https://github.com/Gaurav07z">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaurav07z&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Gaurav's top languages"/>
+  </a>
 </p>
 
-## 📈 Contribution & Commit Graph
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav07z&theme=github-compact&hide_border=true&area=true"
-    alt="Gaurav's GitHub Activity Graph"
-    width="100%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Gaurav07z&theme=github-dark-blue&hide_border=true" alt="Gaurav's GitHub contribution streak"/>
 </p>
 
-### 📈 Contribution & Commit Graph
+---
+
+## 📈 Contribution & Commit Activity
 
 <p align="center">
   <a href="https://github.com/Gaurav07z">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav07z&theme=github-compact&hide_border=true&area=true" alt="Gaurav's GitHub activity graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav07z&theme=github-compact&hide_border=true&area=true" alt="Gaurav's GitHub activity graph" width="100%"/>
   </a>
 </p>
 
 ---
 
-## 📦 Featured Projects
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Gaurav07z/CS-Root">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=CS-Root&theme=github_dark&hide_border=true" alt="CS-Root"/>
-  </a>
-  <a href="https://github.com/Gaurav07z/Portfolio">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio"/>
-  </a>
-</p>
+### 📚 CS-Root
+Computer Science learning platform/project.
 
-<p align="center">
-  <a href="https://github.com/Gaurav07z/MajorProject">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=MajorProject&theme=github_dark&hide_border=true" alt="MajorProject"/>
-  </a>
-  <a href="https://github.com/Gaurav07z/web-labProject">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Gaurav07z&repo=web-labProject&theme=github_dark&hide_border=true" alt="web-labProject"/>
-  </a>
-</p>
+**Stack:** HTML • CSS • JavaScript • Web Development
+
+<a href="https://github.com/Gaurav07z/CS-Root">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View CS-Root repository"/>
+</a>
+
+### 💼 Portfolio
+Personal portfolio project showcasing development work and skills.
+
+<a href="https://github.com/Gaurav07z/Portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View Portfolio repository"/>
+</a>
+
+### 🧩 MajorProject
+Major academic/project repository.
+
+<a href="https://github.com/Gaurav07z/MajorProject">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View MajorProject repository"/>
+</a>
+
+### 🌐 Web Lab Project
+Web-development lab work and experiments.
+
+<a href="https://github.com/Gaurav07z/web-labProject">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="View web-labProject repository"/>
+</a>
 
 ---
 
-## 🧩 GitHub Highlights
+## 📦 More Repositories
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Gaurav07z?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/Gaurav07z?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/commit-activity/y/Gaurav07z/CS-Root?style=for-the-badge&logo=github&label=CS-Root%20Commits" alt="CS-Root commit activity"/>
+  <a href="https://github.com/Gaurav07z?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-238636?style=for-the-badge&logo=github" alt="View all repositories"/>
+  </a>
 </p>
-
-> **Public repositories:** 7  
-> This number reflects the repositories currently visible on the profile and is intentionally kept as plain text so the README does not depend on another API just to display a repository count.
 
 ---
 
@@ -127,10 +140,26 @@ Computer Science        █████████████████░�
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 GitHub Highlights
 
 <p align="center">
-  <i>Keep coding. Keep learning. Keep shipping.</i>
+  <a href="https://github.com/Gaurav07z">
+    <img src="https://img.shields.io/github/followers/Gaurav07z?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Gaurav07z?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Profile-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/Gaurav07z?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View%20Profile-181717?style=for-the-badge&logo=github" alt="Stars"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Calendar
+
+<p align="center">
+  <i>My contribution calendar is available directly on my GitHub profile above.</i>
 </p>
 
 ---
